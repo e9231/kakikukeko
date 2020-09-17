@@ -1,14 +1,9 @@
 
 > Open this page at [https://e9231.github.io/kakikukeko/](https://e9231.github.io/kakikukeko/)
 
-## Use as Extension
+## Tutoials
 
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/e9231/kakikukeko** and import
+* [tutorial](/tutorial)
 
 ## Edit this project ![Build status badge](https://github.com/e9231/kakikukeko/workflows/MakeCode/badge.svg)
 
